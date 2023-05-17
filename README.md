@@ -31,7 +31,7 @@ git clone https://github.com/Dhanush135/Compression-Using-Huffman-Coding.git
 cd huffman-coding
 ```
 
-3. Run the huffman_coding.py file:
+3. Run the Huffman_Compression.py file:
 
 ```shell
 python huffman_coding.py
@@ -55,6 +55,8 @@ python huffman_coding.py
 6. Compressing an Image File:
 
    - Click on the "Compress" button for image compression.
+   
    - Select the image file you want to compress using the file dialog.
+    
    - The compressed image file will be saved with the name "compressed_image.jpg".
 
