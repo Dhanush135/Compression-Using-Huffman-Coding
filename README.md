@@ -34,7 +34,7 @@ cd huffman-coding
 3. Run the Huffman_Compression.py file:
 
 ```shell
-python huffman_coding.py
+python Huffman_Compression.py 
 ```
 4. Compressing a Text File:
 
