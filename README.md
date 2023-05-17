@@ -23,7 +23,7 @@ This project is an implementation of Huffman coding, a popular algorithm used fo
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/huffman-coding.git
+git clone https://github.com/Dhanush135/Compression-Using-Huffman-Coding.git
 ```
 2. Navigate to the project directory:
 
