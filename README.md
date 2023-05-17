@@ -38,17 +38,23 @@ python huffman_coding.py
 ```
 4. Compressing a Text File:
 
--Click on the "Compress" button.
+   - Click on the "Compress" button.
 
--Select the text file you want to compress using the file dialog.
+   - Select the text file you want to compress using the file dialog.
 
--The compressed file will be saved with the same name as the original file with suffix "_compressed", but with the extension ".bin".
+   - The compressed file will be saved with the same name as the original file with suffix "_compressed", but with the extension ".bin".
 
 5. Decompressing a Compressed File:
 
--Click on the "Decompress" button.
+   - Click on the "Decompress" button.
 
--Select the compressed file you want to decompress using the file dialog.
+   - Select the compressed file you want to decompress using the file dialog.
 
--The decompressed text file will be saved with the suffix "_decompressed" added to the original file name, and the extension ".txt".
+   - The decompressed text file will be saved with the suffix "_decompressed" added to the original file name, and the extension ".txt".
+   
+6. Compressing an Image File:
+
+   - Click on the "Compress" button for image compression.
+   - Select the image file you want to compress using the file dialog.
+   - The compressed image file will be saved with the name "compressed_image.jpg".
 
